@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9A83-C8E5
+
+ Directory of C:\Users\DELL\OneDrive\Desktop\MyProject
+
+09/29/2022  12:26 PM    <DIR>          .
+09/29/2022  12:22 PM    <DIR>          ..
+09/29/2022  12:26 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  239,387,291,648 bytes free
